@@ -15,8 +15,11 @@
     "status": "done"
   },
   {
-    "id": 4,
-    "description": "poppp",
-    "status": "в процессе"
+    "id": "задача добавлена"
+  },
+  {
+    "id": 6,
+    "description": "написать диплом",
+    "status": "не завершено"
   }
 ]
