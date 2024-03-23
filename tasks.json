@@ -1,18 +1,34 @@
 [
   {
     "id": 1,
-    "description": "Сделать дз",
-    "status": "active"
+    "description": "сделать дз",
+    "status": "завершено"
   },
   {
     "id": 2,
-    "description": "Прочитать книгу",
-    "status": "backlog"
+    "description": "Пройти собес",
+    "status": "не завершено"
   },
   {
     "id": 3,
-    "description": "Купить Одежду",
-    "status": "done"
+    "description": "написать диплом",
+    "status": "в процессе"
+  },
+  {
+    "id": "задача добавлена"
+  },
+  {
+    "id": 4,
+    "description": "написать диплом",
+    "status": "не завершено"
+  },
+  {
+    "id": "задача добавлена"
+  },
+  {
+    "id": 6,
+    "description": "написать диплом",
+    "status": "не завершено"
   },
   {
     "id": "задача добавлена"
